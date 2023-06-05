@@ -5,4 +5,4 @@ The purpose of the dashboard is to assist the coaching staff by providing insigh
 The dashboard contains a variety of data visualization tools such as raincloud plots and radar charts via the ggplot and fmsb packages in R.
 The dashboard has helped the team better manage player fatigue, improve player preparedness for games, and minimize the potential for injuries.
 
-Link to dashboard: https://barrettcolin99.shinyapps.io/Sample_Basketball_Data_Dashboard/
+Link to dashboard: https://barrettcolin99.shinyapps.io/Sample_Performance_Dashboard/
